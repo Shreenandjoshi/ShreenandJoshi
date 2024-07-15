@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shreenand Joshi</h1>
-<h3 align="center">Game Developer, Doing Honours in Cyber Security</h3>
+<h3 align="center">Doing Honours in Cyber Security, Game Developer in Unity</h3>
 <img align="right" alt="Coding" width="600" src="https://www.computersciencedegreehub.com/wp-content/uploads/2023/02/shutterstock_535124956-scaled.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreenandjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="shreenandjoshi" /> </p>
 
-- 🌱 I’m currently learning **MERN,Blockchain**
+- 🌱 I’m currently learning **DSA in C++**
 
-- 👯 I’m looking to collaborate on **Game Development, Data Science**
+- 👯 I’m looking to collaborate on **Data Science,Game Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreenandjoshi](https://github.com/Shreenandjoshi)
 
-- 💬 Ask me about **Unity, Data Science in Python**
+- 💬 Ask me about **Data Science in Python,Unity**
 
 - 📫 How to reach me **joshishreenand@gmail.com**
 
