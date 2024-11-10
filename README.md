@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DSA in C++**
 
-- 👯 Profile Summary **Versatile and adaptable CS Student who  has explored various domains.**
+- 👯 **Versatile and adaptable CS Student who  has explored various domains.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreenandjoshi](https://github.com/Shreenandjoshi)
 
